@@ -1,6 +1,6 @@
 # Angular 5 TodoMVC
 
-TodoMVC implementation based on [Angular](https://angular.io) version 5. 
+TodoMVC implementation based on [Angular](https://angular.io) version 5, state management on [ngrx](https://github.com/ngrx). 
 
 ## Development
 
